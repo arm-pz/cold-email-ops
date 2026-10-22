@@ -1,0 +1,9 @@
+{
+  "name": "cold-email-ops",
+  "version": "0.1.0",
+  "description": "Plan and audit a cold-email program at volume: inbox and domain capacity, reply floors, burn replacement, shadow-ban tests, automation error budgets and per-client reporting.",
+  "author": {
+    "name": "Abdul Rahman P Z"
+  },
+  "repository": "https://github.com/arm-pz/cold-email-ops"
+}
