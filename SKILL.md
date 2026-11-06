@@ -11,6 +11,7 @@ description: >-
   emails themselves (wordsmith), inbound SEO (seo-audit, programmatic-seo),
   WhatsApp/RCS messaging (integrate-whatsapp, sent-two-way-messaging), or finding
   the market/ICP.
+version: 1.0.0
 ---
 
 # Cold email ops
